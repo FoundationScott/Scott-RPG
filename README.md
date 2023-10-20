@@ -1,5 +1,5 @@
 # Scott-RPG
-Scott RPG Current Version: 1.2.4
+Scott RPG Current Version: 1.2.5
 
 Update Includes: 
 1. Monsters now have their own skills
