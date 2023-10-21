@@ -1,6 +1,6 @@
 # Scott-RPG
-Scott RPG Current Version: 1.2.6
+Scott RPG Current Version: 1.2.7
 
 Update Includes: 
-1. Players can now explore a dungeon where they can find treasure, fight monsters, and trigger traps
-2. Basic bug fixes
+1. Added quests
+2. Added titles
