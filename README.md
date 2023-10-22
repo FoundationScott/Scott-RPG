@@ -1,6 +1,6 @@
 # Scott-RPG
-Scott RPG Current Version: 1.2.7
+Scott RPG Current Version: 1.2.8
 
 Update Includes: 
-1. Added quests
-2. Added titles
+1. Added dungeon bosses
+2. Major bug fixes
