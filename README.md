@@ -1,5 +1,5 @@
 # Scott-RPG
-Scott RPG Current Version: 1.2.9
+Scott RPG Current Version: 1.2.9(BETA)
 
 Update Includes: 
 1. Revamped Title System
