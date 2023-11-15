@@ -1,11 +1,9 @@
 # Scott-RPG
-Scott RPG Current Version: 1.3.3
+Scott RPG Current Version: 1.3.4
 
 Update Includes: 
-1. Added 'Classless' class which allows the player to master any style of fighting
-2. Updated game UI to display the players currently equipped armor
-3. Changed the battle system to be more balanced, previously monsters had preset levels and strength of their moves, now their level is randomized and the higher the level the more powerful they are, and the lower the weaker. Have fun!
-4. Fixed beast tamer class
-5. Changed Scott RPG Logo
-6. Updated shop to handle buying and selling of armor
-7. Added a slime monster which can be tamed with a blueberry(When defeated and/or tamed slime will give the title 'I'm Not A Bad Slime Slurp' which is a refernce to That Time I Got Reincarnated As A Slime, a phrase said in an episode where Rimuru meets Shizu)
+1. Created a website for the game or rather the studio that will hold all games made by me avalible via this link 'https://rell-foundation-scott.vercel.app/'
+2. Added a toutorial to the game, usabel via settings or main menu
+3. Revamped Light Magic Spell 'Divine Shield'
+4. Added a second floor to the dungeon, which features a new dungeon layout, new monsters, and new bosses
+5. Revamped quests
