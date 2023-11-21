@@ -1,9 +1,7 @@
 # Scott-RPG
-Scott RPG Current Version: 1.3.4
+Scott RPG - Version: 1.3.5: 
 
-Update Includes: 
-1. Created a website for the game or rather the studio that will hold all games made by me avalible via this link 'https://rell-foundation-scott.vercel.app/'
-2. Added a tutorial to the game, usable via settings or main menu
-3. Revamped Light Magic Spell 'Divine Shield'
-4. Added a second floor to the dungeon, which features a new dungeon layout, new monsters, and new bosses
-5. Revamped quests
+1. Revamped bosses to have their own 'Boss Items' specific to them, in turn removing Metkilo items
+2. Updated battle logic so players can earn gold from defeating a monster
+3. Updated totourial for new 'Boss Items'
+4. Added some items to prepare for the upcoming crafting update where players will be able to craft items such as Swords, Shields, Knuckles, and Armors
