@@ -13,12 +13,12 @@ Scott RPG - Version: 1.3.6:
 Other Information: 
 
 Recipes:
-Wooden Sword - Wood x3, Stick x2, Leather x1
-Copper Sword - Chunk of Copper x3, Stick x2, Leather x1
-Iron Sword - Chunk of Iron x3, Stick x2, Leather x1
-Steel Sword - Chunk of Steel x3, Stick x2, Leather x1
-Gold Sword - Chunk of Gold x3, Stick x2, Leather x1
-Diamond Sword - Chunk of Diamond x3, Stick x2, Leather x1
-Adamantite Sword - Chunk of Adamantite x3, Stick x2, Leather x1
-Mythril Sword - Chunk of Mythril x3, Stick x2, Leather x1
-Obsidian Sword - Chunk of Obsidian x3, Stick x2, Leather x1
+1. Wooden Sword - Wood x3, Stick x2, Leather x1
+2. Copper Sword - Chunk of Copper x3, Stick x2, Leather x1
+3. Iron Sword - Chunk of Iron x3, Stick x2, Leather x1
+4. Steel Sword - Chunk of Steel x3, Stick x2, Leather x1
+5. Gold Sword - Chunk of Gold x3, Stick x2, Leather x1
+6. Diamond Sword - Chunk of Diamond x3, Stick x2, Leather x1
+7. Adamantite Sword - Chunk of Adamantite x3, Stick x2, Leather x1
+8. Mythril Sword - Chunk of Mythril x3, Stick x2, Leather x1
+9. Obsidian Sword - Chunk of Obsidian x3, Stick x2, Leather x1
