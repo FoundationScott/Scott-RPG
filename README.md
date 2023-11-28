@@ -2,7 +2,7 @@
 Scott RPG - Version: 1.3.6: 
 
 1. Fixed battle logic
-2. Added crafting(So far limited to sword, I plan to add all weapons and shields but it takes a while to make recipies for each item)
+2. Added crafting
 3. Added more items for crafting update
 4. Fixed spin race system
 5. Added 'Spin Ticket' items which can be redeemed by the players for spins, Low Spin Ticket can be used to redeem(random) 1-5 spins, Medium Spin Ticket can be used to redeem(random) 5-10 spins, High Spin Ticket can be used to redeem(random) 10-20 spins
