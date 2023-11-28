@@ -6,16 +6,6 @@ Eligibility:
 
 To download and run the Game, you must have a computer running Windows 10 or a later version or a device that can run in a cmd and python environment.
 
-Installation Requirements:
-
-1. Python: The Game requires Python to be installed on your computer. To install Python, please follow these steps:
-
-1a. Visit 'https://www.python.org/downloads/' and download the latest version. During installation, ensure that you select the 'Add To PATH' option, which allows you to run 'pip' commands. 
-
-2. Cryptography: Cryptography is necessary for save files to work in the Game. To install Cryptography, follow these steps:
-
-2a. Open your Windows command prompt (cmd). Type 'pip install cryptography' and press Enter. After the installation is complete, verify the version by typing 'pip show cryptography'. If the version is '41.0.4' or above, Cryptography has been successfully installed. 
-
 Usage:
 
 After installing the necessary components, you are free to download and run the Game for personal use meaning playing the game. However, you are strictly prohibited from distributing, modifying, or performing any other actions on the code and/or it's resources.
@@ -40,6 +30,6 @@ By downloading, running and/or modifying the Scott RPG Game and it's resources, 
 
 For any questions or concerns regarding this Agreement, please contact 'RelloJXScott@gmail.com'.
 
-User Agreement Last Updated: Friday, October 13, 2023
+User Agreement Last Updated: Tuesday, November 28, 2023
 
 Thank you for using the Scott RPG Game. Enjoy your gaming experience!
