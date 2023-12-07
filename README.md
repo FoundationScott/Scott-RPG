@@ -1,8 +1,9 @@
 # Scott-RPG
-Scott RPG - Version: 1.3.6: 
+Scott RPG - Version: 1.3.7: 
 
-1. Fixed battle logic
-2. Added crafting
-3. Added more items for crafting update
-4. Fixed spin race system
-5. Added 'Spin Ticket' items which can be redeemed by the players for spins, Low Spin Ticket can be used to redeem(random) 1-5 spins, Medium Spin Ticket can be used to redeem(random) 5-10 spins, High Spin Ticket can be used to redeem(random) 10-20 spins
+1. Updated/Revamped Lore
+2. Updated Stats UI
+3. Revamped Crafting system and renamed it to Smithing/Blacksmithing
+4. Updated Newsletter UI and game UI to correspond with blacksmithing revamp
+5. Added log-out option in settings(so players won't have to quit the entire game to switch accounts)
+6. Fixed monster attacks
