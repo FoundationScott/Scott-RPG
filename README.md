@@ -10,7 +10,7 @@ Scott RPG - Version: 1.3.8:
 after their death)
 7. Updated lore
 8. Added new recipes for boss items
-9. Fixed exsisting accounts being overwritten by new accounts under the 
+9. Fixed existing accounts being overwritten by new accounts under the 
 same username
 10. Fixed dungeon logic
 11. Fixed floor 2
