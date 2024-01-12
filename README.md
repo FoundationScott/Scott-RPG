@@ -1,8 +1,10 @@
 # Scott-RPG
-Scott RPG - Version: 1.4.0: 
+Scott RPG - Version: 1.4.1: 
 
-1. Added mining(Can be found in dungeons), which requires a pickaxe to mine please note some weaker pickaxes won't be able to mine stronger ores e.g. a Stone Pickaxe is not able to mine Mythril Ore
-2. Added a new category to Rell Shop called 'Tools' which will house all of the games 'Tool' type items, which for now is only pickaxes
-3. Updated how Scott Newsletter updates are displayed
-4. Updated dungeon
-5. Updated sell prices for armors to match the buy prices, please note boss items are excluded from this update and will not give any gold upon selling
+1. 100 Years Event(An 100 year time skip)
+     1a. Revamped rell shop into Metkilo Guild and introduced new choices in guild, and added npc's to the guild
+     1b. Fixed magic level bug
+     1c. Added a Max Level and Max Magic Level(both being 100)
+     1d. Made some monsters 'Special Monsters' of whom drop their own specific items much like bosses, but are of the same strength as before
+     1e. Huge UI Revamp
+     1f. Updated Guide(Page 4)
