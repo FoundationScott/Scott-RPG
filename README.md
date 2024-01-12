@@ -1,4 +1,4 @@
-# Scott-RPG
+# Scott RPG Update Log
 Scott RPG - Version: 1.4.1: 
 
 1. 100 Years Event(An 100 year time skip)
