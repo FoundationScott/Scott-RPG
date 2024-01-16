@@ -1,10 +1,8 @@
-# Scott RPG Update Log
-Scott RPG - Version: 1.4.1: 
+# Scott RPG - Version: 1.4.2: 
 
-1. 100 Years Event(An 100 year time skip)
-2. Revamped rell shop into Metkilo Guild and introduced new choices in guild, and added npc's to the guild
-3. Fixed magic level bug
-4. Added a Max Level and Max Magic Level(both being 100)
-5. Made some monsters 'Special Monsters' of whom drop their own specific items much like bosses, but are of the same strength as before
-6. Huge UI Revamp
-7. Updated Guide(Page 4)
+1. Added hunger and thirst valves and updated shopkeeper to have a 'Buy food and/or drinks' option, food will fill the hunger valve and drinks the thirst valve food and drinks will both be under one shop category and their will be different foods/drinks which restore a different amount of hunger and thirst and players can eventually die from starvation or dehydration. Naturally vampires don't need to worry about hunger or thirst.
+2. Added a new magic called Void with only one spell, which instantly kills the enemy but in return takes away the magic meaning it's an one-time-cast magic which can only be obtained once.
+3. Fixed gerald(the blacksmith).
+4. Updated the guide
+5. Fixed bug with mining obsidian
+6. Fixed player death system
