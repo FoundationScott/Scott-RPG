@@ -1,6 +1,6 @@
 # Scott RPG - Version: 1.4.3: 
 
-# PLAYERS PLEASE NOTE THAT ALL PARTS OF THIS EVENT WILL REMAIN IN EFFEECT AFTER VALENTINES DAY EXCEPT FOR THE CUPID BOSS, IF YOU WISH TO DO BATTLE WITH HIM DO IT BEFORE VALENTINES DAY
+# Valentines Event Ends Feb, 15, 2024(Only Cupid Boss Will Be Removed)
 
 1. Valentines Event:
 2. Added status effects e.g. Burning, Poisoned, and Wet
