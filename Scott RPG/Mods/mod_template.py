@@ -1,3 +1,4 @@
+# WARNING: DO NOT CHANGE ATTRIBUTES OF MONSTER OR SWORD CLASSES OR THE MOD WILL BREAK
 class Monster:
     def __init__(self, monster_id, name, level, strength, health, max_health, magic_type, skill_1, skill_2, skill_3, skill_1_damage, skill_2_damage, skill_3_damage, tameable, is_poisoned, is_burning, is_wet, vs_active, vs_count):
         self.id = monster_id
