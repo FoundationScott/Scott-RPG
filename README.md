@@ -1,4 +1,4 @@
-# Scott RPG - Version: 1.4.5: 
+# Scott RPG - Version: 1.4.6: 
 
 # Valentines Event Ends Feb, 15, 2024(Only Cupid Boss Will Be Removed)
 
