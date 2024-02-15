@@ -1,4 +1,4 @@
-# Notice: Scott RPG is an PC only game 
+# Notice: Scott RPG only supports PC's for now
 
 Scott RPG - Version: 1.4.6(Latest)
 1. Fixed fishing system
