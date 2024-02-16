@@ -1,4 +1,5 @@
 # Notice: Scott RPG only supports PC's for now
+# Join the discord: https://discord.com/invite/6rBXpBsa6p
 
 Scott RPG - Version: 1.4.6(Latest)
 1. Fixed fishing system
