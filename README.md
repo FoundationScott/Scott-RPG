@@ -46,3 +46,15 @@ Metkilo Ranks:
 6. Adamantite - Level Required: 75
 7. Mythril - Level Required: 90
 8. Obsidian - Level Required: 100
+
+NPC List: 
+Misha - First Floor Clerk
+Connie - First Floor Clerk
+Veila - First Floor Clerk
+Jenna - First Floor Clerk
+Gerald - Expert Blacksmith
+Aaron - Shopkeeper
+Gregor - Second Floor Clerk
+Daniel - Second Floor Clerk
+Jason - Second Floor Clerk
+Xavier - Second Floor Clerk
