@@ -58,3 +58,12 @@ Gregor - Second Floor Clerk
 Daniel - Second Floor Clerk
 Jason - Second Floor Clerk
 Xavier - Second Floor Clerk
+
+Elemental Weaknesses: 
+Fire - Water, Earth
+Water - Earth, Thunder
+Earth - Air, Fire
+Air - Fire, Thunder
+Dark - Light, Fire
+Light - Dark, Water
+Thunder - Earth Water
