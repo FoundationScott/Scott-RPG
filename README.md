@@ -6,6 +6,8 @@ Scott RPG - Version: 1.4.7(Latest)
 2. Added bug report feature in settings
 3. Added background music, and credits for such music in settings
 
+
+# Other Information
 Titles: 
 1. Dragonslayer - Obtainable by killing a dragon.
 2. Water Master - Obtainable by killing a Water Elemental.
@@ -33,3 +35,14 @@ Titles:
 24. Outlaw - Obtainable by committing a crime in story mode.
 25. Betrayed - Obtainable by being betrayed in story mode.
 26. Debug Hunter - Obtainable by finding a debug log.
+
+
+Metkilo Ranks: 
+1. Copper
+2. Silver
+3. Iron
+4. Gold
+5. Diamond
+6. Adamantite
+7. Mythril
+8. Obsidian
