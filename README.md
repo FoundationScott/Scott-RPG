@@ -38,11 +38,11 @@ Titles:
 
 
 Metkilo Ranks: 
-1. Copper
-2. Silver
-3. Iron
-4. Gold
-5. Diamond
-6. Adamantite
-7. Mythril
-8. Obsidian
+1. Copper - Level Required: 1
+2. Silver - Level Required: 15
+3. Iron - Level Required: 30
+4. Gold - Level Required: 45
+5. Diamond - Level Required: 60
+6. Adamantite - Level Required: 75
+7. Mythril - Level Required: 90
+8. Obsidian - Level Required: 100
