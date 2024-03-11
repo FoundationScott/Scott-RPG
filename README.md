@@ -1,10 +1,16 @@
 # Notice: Scott RPG only supports PC's for now
 # Join the discord: https://discord.com/invite/6rBXpBsa6p
 
-Scott RPG - Version: 1.4.7(Latest)
-1. Scott RPG API updated so players can mod the following: Shields, Bows, Knuckles, Armor, Food, Drinks, and Food Recipes
-2. Added bug report feature in settings
-3. Added background music, and credits for such music in settings
+Scott RPG - Version: 1.4.8(Latest)
+1. St. Patrick's Event:
+2. Added Leperchaun Boss(Can give the user gold with 'Pot o' Gold' skill)
+3. Added 'Leperchaun's Rainbow' Dungeon
+4. Added Luck stat(Modifies chance of item drops from monsters, strength challenge, etc.)
+5. Fixed annoying dungeon bug where it didn't print location info
+6. Old accounts can now be loaded into the game(Will have to save game once logged in to retrieve new player template)
+7. Added short company credits on main menu
+8. Fixed Metkilo rank bug
+9. Added Slime Core's, if you craft 12 and have them all in your inventory you can make a wish.
 
 
 # Other Information
@@ -67,3 +73,57 @@ Air - Fire, Thunder
 Dark - Light, Fire
 Light - Dark, Water
 Thunder - Earth Water
+
+1. Elder God
+2. Sycon the Alchemist
+3. Jeno the Healer
+4. Majin the Swordmaster
+5. Slime
+6. Goblin
+7. Ogre
+8. Orc
+9. Phoenix
+10. Salamander
+11. Succubus
+12. Golem
+13. Lich
+14. Werewolf
+15. Gargoyle
+16. Naga
+17. Treant
+18. Mummy
+19. Sasquatch
+20. Ghoul
+21. Imp
+22. Goblin Shaman
+23. Dragon
+24. Unicorn
+25. Cthulhu
+26. Medusa
+27. Centaur
+28. Siren
+29. Griffin
+30. Banshee
+31. Troll
+32. Harpy
+33. Chimera
+34. Hydra
+35. Minotaur
+36. Gorgon
+37. Kraken
+38. Cyclops
+39. Nymph
+40. Basilisk
+41. Djinn
+42. Manticore
+43. Vampire
+44. Fire Elemental
+45. Water Elemental
+46. Air Elemental
+47. Earth Elemental
+48. Light Elemental
+49. Dark Elemental
+50. Demon
+51. Angel
+52. Shambling Shamrocks
+53. Leprechaun
