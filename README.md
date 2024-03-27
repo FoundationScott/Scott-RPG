@@ -2,11 +2,11 @@
 # Join the discord: https://discord.com/invite/6rBXpBsa6p
 
 Scott RPG - Version: 1.4.9(Latest)
-1. Easter Update:
+# Easter Update:
   1. Added Peter Cottontail, the Easter Bunny, as the God of Fertility
   2. Added Egg hunt challenge(Find all 4 eggs and you can claim a child of Peter)
   3. Added Chocolate
-2. Other Changes:
+# Other Changes:
   1. Added curses and blessings
   2. Hightened monster evasion rate
   3. Updated lore for new era
