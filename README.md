@@ -1,16 +1,21 @@
 # Notice: Scott RPG only supports PC's for now
 # Join the discord: https://discord.com/invite/6rBXpBsa6p
 
-Scott RPG - Version: 1.4.8(Latest)
-1. St. Patrick's Event:
-2. Added Leperchaun Boss(Can give the user gold with 'Pot o' Gold' skill)
-3. Added 'Leperchaun's Rainbow' Dungeon
-4. Added Luck stat(Modifies chance of item drops from monsters, strength challenge, etc.)
-5. Fixed annoying dungeon bug where it didn't print location info
-6. Old accounts can now be loaded into the game(Will have to save game once logged in to retrieve new player template)
-7. Added short company credits on main menu
-8. Fixed Metkilo rank bug
-9. Added Slime Core's, if you craft 12 and have them all in your inventory you can make a wish.
+Scott RPG - Version: 1.4.9(Latest)
+1. Easter Update:
+  1. Added Peter Cottontail, the Easter Bunny, as the God of Fertility
+  2. Added Egg hunt challenge(Find all 4 eggs and you can claim a child of Peter)
+  3. Added Chocolate
+2. Other Changes:
+  1. Added curses and blessings
+  2. Hightened monster evasion rate
+  3. Updated lore for new era
+  4. Added Gods to Battle in 'War' dungeon, defeating a god/demi-god will allow the user to reach godhood and take the title of the god they defeated
+  5. Added Auras(For example Aura of Importance gets you a reduced price from shopkeeper)
+  7. Updated Max Level from 100 to 3,500(This is due to some monsters being too powerful for even a level 100 player to handle)
+  8. Fixed mage float spellcasting bug
+  9. Added Bread
+  10. Updated inventory so food items and drinks show how much they will satiate you before using them
 
 
 # Other Information
