@@ -1,21 +1,12 @@
 # Notice: Scott RPG only supports PC's for now
 # Join the discord: https://discord.com/invite/6rBXpBsa6p
 
-## Scott RPG - Version: 1.4.9(Latest): 
-### Easter Update:
-  1. Added Peter Cottontail, the Easter Bunny, as the God of Fertility
-  2. Added Egg hunt challenge(Find all 4 eggs and you can claim a child of Peter)
-  3. Added Chocolate
-### Other Changes:
-  1. Added curses and blessings
-  2. Hightened monster evasion rate
-  3. Updated lore for new era
-  4. Added Gods to Battle in 'War' dungeon, defeating a god/demi-god will allow the user to reach godhood and take the title of the god they defeated
-  5. Added Auras(For example Aura of Importance gets you a reduced price from shopkeeper)
-  7. Updated Max Level from 100 to 3,500(This is due to some monsters being too powerful for even a level 100 player to handle)
-  8. Fixed mage float spellcasting bug
-  9. Added Bread
-  10. Updated inventory so food items and drinks show how much they will satiate you before using them
+## Scott RPG - Version: 1.5.0(Latest): 
+1. Added Password Bluring(When creating an account and logging in password is blurred, this is so nearby people will not see private passwords)
+2. General bug fixes
+3. Added day and night cycle(Monsters are stronger at night, and your chance of running into a unique monster will double at night)
+4. Added housing(Can be used to replinish mana and stamina, skip to day/night, and cook)
+5. Fixed old account system to work properly
 
 
 # Other Information
