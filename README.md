@@ -1,12 +1,10 @@
 # Notice: Scott RPG only supports PC's for now
 # Join the discord: https://discord.com/invite/6rBXpBsa6p
 
-## Scott RPG - Version: 1.5.0(Latest): 
-1. Added Password Bluring(When creating an account and logging in password is blurred, this is so nearby people will not see private passwords)
-2. General bug fixes
-3. Added day and night cycle(Monsters are stronger at night, and your chance of running into a unique monster will double at night)
-4. Added housing(Can be used to replinish mana and stamina, skip to day/night, and cook)
-5. Fixed old account system to work properly
+## Scott RPG - Version: 1.5.1(Latest): 
+1. Arrow bugfixes
+2. Housing bugfixes
+3. Added Eclipse magic(Use code 'Eclipse!', this is limited time)
 
 
 # Other Information
