@@ -1,10 +1,8 @@
 # Notice: Scott RPG only supports PC's for now
 # Join the discord: https://discord.com/invite/6rBXpBsa6p
 
-## Scott RPG - Version: 1.5.1(Latest): 
-1. Arrow bugfixes
-2. Housing bugfixes
-3. Added Eclipse magic(Use code 'Eclipse!', this is limited time)
+## Scott RPG - Version: 1.5.2(Latest): 
+1. Added more advanced NPC interactions, and players can now explore the village and run into npcs, and have relationships with them.
 
 
 # Other Information
