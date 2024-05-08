@@ -5,7 +5,7 @@
 1. Added more advanced NPC interactions, and players can now explore the village and run into npcs, and have relationships with them.
 
 
-## Other Information
+# Other Information
 Titles: 
 1. Dragonslayer - Obtainable by killing a dragon.
 2. Water Master - Obtainable by killing a Water Elemental.
