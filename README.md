@@ -5,7 +5,7 @@
 1. Added more advanced NPC interactions, and players can now explore the village and run into npcs, and have relationships with them.
 
 
-# Other Information
+## Other Information
 Titles: 
 1. Dragonslayer - Obtainable by killing a dragon.
 2. Water Master - Obtainable by killing a Water Elemental.
@@ -35,7 +35,7 @@ Titles:
 26. Debug Hunter - Obtainable by finding a debug log.
 
 
-Metkilo Ranks: 
+### Metkilo Ranks: 
 1. Copper - Level Required: 1
 2. Silver - Level Required: 15
 3. Iron - Level Required: 30
@@ -45,7 +45,7 @@ Metkilo Ranks:
 7. Mythril - Level Required: 90
 8. Obsidian - Level Required: 100
 
-NPC List: 
+### NPC List: 
 Misha - First Floor Clerk
 Connie - First Floor Clerk
 Veila - First Floor Clerk
@@ -57,7 +57,7 @@ Daniel - Second Floor Clerk
 Jason - Second Floor Clerk
 Xavier - Second Floor Clerk
 
-Elemental Weaknesses: 
+### Elemental Weaknesses: 
 Fire - Water, Earth
 Water - Earth, Thunder
 Earth - Air, Fire
@@ -66,6 +66,7 @@ Dark - Light, Fire
 Light - Dark, Water
 Thunder - Earth Water
 
+### Monsters: 
 1. Elder God
 2. Sycon the Alchemist
 3. Jeno the Healer
@@ -127,27 +128,27 @@ Thunder - Earth Water
 
 This User Agreement ("Agreement") is a legal document that outlines the terms and conditions under which you ("User") may download and run the Scott RPG game ("Game"). By downloading and/or running the Game, you agree to be bound by the terms and conditions set forth in this Agreement. If you do not agree to these terms, please do not download or run the Game and/or modify any of it's code and/or resources.
 
-Eligibility:
+## Eligibility:
 
 To download and run the Game, you must have a computer running Windows 10 or a later version or a device that can run in a cmd and python environment.
 
-Usage:
+## Usage:
 
 After installing the necessary components, you are free to download and run the Game for personal use meaning playing the game. However, you are strictly prohibited from distributing, modifying, or performing any other actions on the code and/or it's resources.
 
-User Agreement Acceptance:
+## User Agreement Acceptance:
 
 By downloading and/or running the Game, you acknowledge that you have read, understood, and agreed to the terms and conditions outlined in this Agreement. You further acknowledge that any violation of this Agreement may result in legal action against you, even though the Game is not registered under any copyright law.
 
-Disclaimer:
+## Disclaimer:
 
 The Game is provided "as is," without any warranties or guarantees of any kind, whether express or implied. The developer of the Game shall not be held responsible for any damages or issues that may arise from using the Game.
 
-Termination:
+## Termination:
 
 This Agreement is effective until terminated. You may terminate this Agreement by discontinuing the use of the game and/or removing all copies you distributed online. The developer of the Game reserves the right to terminate this Agreement at any time without notice.
 
-Governing Law:
+## Governing Law:
 
 This Agreement shall be governed by and construed in accordance with the laws of the United States of America ("USA").
 
