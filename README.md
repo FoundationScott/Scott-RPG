@@ -2,7 +2,7 @@
 ## Join the discord: https://discord.com/invite/6rBXpBsa6p
 
 # Scott RPG - Version: 1.5.2(Latest): 
-1. Added more advanced NPC interactions, and players can now explore the village and run into npcs, and have relationships with them.
+## 1. Added more advanced NPC interactions, and players can now explore the village and run into npcs, and have relationships with them.
 
 
 # Other Information
