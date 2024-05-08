@@ -5,7 +5,7 @@
 ## 1. Added more advanced NPC interactions, and players can now explore the village and run into npcs, and have relationships with them.
 
 
-# Other Information
+# Other Information: 
 Titles: 
 1. Dragonslayer - Obtainable by killing a dragon.
 2. Water Master - Obtainable by killing a Water Elemental.
@@ -124,7 +124,7 @@ Thunder - Earth Water
 55. St. Patrick, the God of Bounty
 56. Cupid, the God of Desire
 
-# User Agreement
+# User Agreement: 
 
 This User Agreement ("Agreement") is a legal document that outlines the terms and conditions under which you ("User") may download and run the Scott RPG game ("Game"). By downloading and/or running the Game, you agree to be bound by the terms and conditions set forth in this Agreement. If you do not agree to these terms, please do not download or run the Game and/or modify any of it's code and/or resources.
 
