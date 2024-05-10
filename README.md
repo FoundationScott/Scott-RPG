@@ -2,8 +2,8 @@
 # Join the discord: https://discord.com/invite/6rBXpBsa6p
 
 # Scott RPG - Version: 1.5.3(Latest): 
-## 1. Quality NPC bugfixes.
-## 2. SFX.
+### 1. Quality NPC bugfixes.
+### 2. SFX.
 
 
 # Other Information: 
