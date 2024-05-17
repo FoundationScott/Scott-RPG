@@ -76,10 +76,7 @@ class Bow:
 
     def hit_chance(self):
         c = random.randint(1, 20)
-        if c >= 10:
-            return True
-        else:
-            return False
+        return c >= 10
 
     def __str__(self):
         return self.name
@@ -100,38 +97,27 @@ class Armor:
         return self.name
 
 # Name, ID, name, level, strength, health, max health, type, skill 1, skill 2, skill 3, skill 1 damage, skill 2 damage, skill 3 damage, tameable, is poisoned, is burning, is wet, seduction active, and seduction stage
-def add_monster(monster={"Test Monster": Monster("TM1", "Test Monster", 1, 2, 10, 10, "Earth", "Attack 1", "Attack 2", "Attack 3", 1, 5, 10, False, False, False, False, False, 0),}):
+def add_monster(monster={"Test Monster": Monster("TM1", "Test Monster", 1, 2, 10, 10, "Earth", "Attack 1", "Attack 2", "Attack 3", 1, 5, 10, False, False, False, False, False, 0)}):
     return monster
 
 # Name, nickname, name, attack damage, durability, price, and level required
-def add_sword(sword={"Test Sword": Sword("", "Test Sword", 10, 10, 10, 1),):
+def add_sword(sword={"Test Sword": Sword("", "Test Sword", 10, 10, 10, 1)}):
     return sword
 
 # Name, nickname, name, protection, durability, price, and level required
-def add_shield(shield={"Test Shield": Shield("", "Test Shield", 10, 10, 10, 1),}):
+def add_shield(shield={"Test Shield": Shield("", "Test Shield", 10, 10, 10, 1)}):
     return shield
 
 # Name, nickname, name, attack damage, durability, price, and level required
-def add_knuckle(knuckle={"Test Knuckles": Knuckles("", "Test Knuckles", 15, 15, 15, 1),}):
+def add_knuckle(knuckle={"Test Knuckles": Knuckles("", "Test Knuckles", 15, 15, 15, 1)}):
     return knuckle
 
 # Name, nickname, name, attack damage, durability, current arrow type, arrow amount, price, and level required
-def add_bow(bow={"Test Bow": Bow("", "Test Bow", 10, 10, None, 0, 10, 1),}):
+def add_bow(bow={"Test Bow": Bow("", "Test Bow", 10, 10, None, 0, 10, 1)}):
     return bow
 
 # Name, nickname, name, strength boost, defense boost, magic boost, endurance boost, level required, price, and armor type
-def add_armor(helmet={"Helmet Name": Armor("", "Helmet Name", 3, 5, 0, 0, 1, 3000, "Helmet"),}, chestplate={"Chestplate Name": Armor("", "Chestplate Name", 3, 5, 0, 0, 1, 3000, "Chestplate"),}, leggings={"Leggings Name": Armor("", "Leggings Name", 3, 5, 0, 0, 1, 3000, "Leggings"),}, boots={"Boots Name": Armor("", "Boots Name", 3, 5, 0, 0, 1, 3000, "Boots"),}):
-    return helmet
-    return chestplate
-    return leggings
-    return boots
-
-# Name, and hunger amount
-def add_food(food={"Food Name": 1}):
-    return food
-
-def add_drink(drink={"Drink Name": 1}):
-    return drink
-
-def add_recipe(recipe={"Recipe Name": ["Ingredient 1", "Ingredient 2"]}):
-    return recipe
+def add_armor(helmet={"Helmet Name": Armor("", "Helmet Name", 3, 5, 0, 0, 1, 3000, "Helmet")}, 
+              chestplate={"Chestplate Name": Armor("", "Chestplate Name", 3, 5, 0, 0, 1, 3000, "Chestplate")}, 
+              leggings={"Leggings Name": Armor("", "Leggings Name", 3, 5, 0, 0, 1, 3000, "Leggings")}, 
+              boots={"Boots Name": Armor("", "Boots Name", 3, 5, 
