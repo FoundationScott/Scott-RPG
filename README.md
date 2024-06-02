@@ -1,5 +1,4 @@
 #  Notice: Scott RPG only supports PC's for now
-# Join the discord: https://discord.com/invite/6rBXpBsa6p
 
 # Scott RPG - Version: 1.5.3(Latest): 
 ### 1. Quality NPC bugfixes.
